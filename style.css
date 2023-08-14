@@ -30,6 +30,11 @@ body {
     background-color: var(--lightorange);
 }
 
+.content {
+    max-width: 1300px;
+    margin: auto;
+    padding: 60px 0;
+}
 /* ==Header== */
 header {
     padding: 20px 60px;
